@@ -1,0 +1,56 @@
+/* style.css */
+
+/* Apply styles to the header */
+
+#navigation{
+
+	background-color:rgba(255, 255, 255, 0.818);
+	color:rgba(248, 14, 14, 0.603);
+	padding: 20px;
+	text-align: center;
+
+
+}
+
+
+
+#header {
+	background-color:rgba(255, 255, 255, 0.818);
+	color:rgba(248, 14, 14, 0.603);
+	padding: 20px;
+	text-align: center;
+  }
+  
+  #header h1 {
+	font-size: 4em;
+	margin: 0;
+  }
+  
+  /* Apply styles to the navigation links */
+  #header nav ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+  }
+  
+  #header nav ul li {
+	display: inline;
+	margin-right: 20px;
+  }
+  
+  #header nav ul li a {
+	color:rgba(191, 91, 91, 0.463);
+	text-decoration: none;
+  }
+  
+  /* Apply styles to the intro section */
+  #intro {
+	background-image: url("images/pic01.jpg");
+	background-size: cover;
+	color: #fff;
+	padding: 100px;
+	text-align: center;
+  }
+  
+
+  

@@ -1,0 +1,53 @@
+.nav2 ul{
+
+  list-style: none;
+    
+  margin-left: 2%;
+  display: flex;
+  padding-top: 1%;
+  padding-bottom: 1%;
+position: relative;
+left: 10px;
+
+
+}
+.nav2 li {
+
+  text-align: center;
+  align-content: center;
+  margin-left: 5%;
+  margin-right: 5%;
+  
+
+}
+.nav2 li a{
+
+  font-style: oblique;
+  font-weight: bolder;
+  color:white;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  text-decoration: dashed;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  font-size: large;
+  font-weight: 400;
+
+
+}
+.nav2{
+
+  background-color: black;
+  height: 100px;
+}
+.nav2 ul li a:hover{
+
+  background-color:gray;
+  
+  color: rgb(230, 166, 5);
+  cursor: pointer;
+  
+  }
+  

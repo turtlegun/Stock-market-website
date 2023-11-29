@@ -1,0 +1,50 @@
+.Footer{
+background-color: rgb(0, 0, 0);
+height: 150px;
+
+}
+.Footer h3{
+    color: white;
+    text-align: center;
+    padding-top: 2%;
+    
+    font-weight: bolder;
+    font-style: italic;
+
+}
+.but{
+
+    position: relative;
+
+    top: 20%;
+    left: 37%;
+    background-color: rgb(230, 166, 5);
+    border-color:rgb(230, 166, 5);
+    width: 100px;
+    height: 50px;
+    
+}
+.but a{
+
+    color:black;
+    text-decoration: none;
+    font-weight: 500;
+    
+    
+}
+.but1{
+
+    position: relative;
+
+    top: 20%;
+    left: 55%;
+    background-color: rgb(230, 166, 5);
+    border-color:rgb(230, 166, 5);
+    width: 100px;
+    height: 50px;
+}
+.but1 a{
+    font-weight: 500;
+    color: black;
+    text-decoration: none;
+}

@@ -1,0 +1,97 @@
+.email label{
+position: relative;
+left: 35%;
+padding-top: 3%;
+padding-bottom: 2%;
+font-weight: bold;
+font-size: 20px;
+color: white;
+
+}
+.email div input{
+
+    position: relative;
+    left: 40%;
+    width: 25%;
+    
+}
+.email input::placeholder {
+    color: rgb(9, 15, 15); 
+    font-weight:500;
+    
+  }
+
+.login{
+
+background-color: black;
+height: 600px;
+
+}  
+.password label{
+    position: relative;
+    left: 43%;
+    padding-top: 3%;
+    padding-bottom: 2%;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    
+    }
+.password div input{
+    
+        position: relative;
+        left: 40%;
+        width: 25%;
+        
+    }
+.password input::placeholder {
+        color: rgb(9, 15, 15); 
+        font-weight:500;
+        
+      }
+
+.head{
+
+    color: white;
+    position: relative;
+    left: 40%;
+}      
+.check input{
+
+position: relative;
+
+left: 40%;
+}
+.check label{
+
+    position: relative;
+    
+    left: 45%;
+    color: white;
+    font-weight: bold;
+    }
+
+.btn {
+    position: relative;
+    background-color:green;
+    width: 7%;
+    left: 45%;
+    padding-top: 1%;
+} 
+.invalid{
+    color: red;
+    margin-left: 35%;
+}  
+.b{
+
+    position: relative;
+    left: 42%;
+    background-color: green;
+    color:white;
+    
+}
+.bd{
+
+padding-top: 2%;
+
+}

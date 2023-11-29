@@ -1,0 +1,37 @@
+.headnew{
+
+background-color: black;
+color: white;
+
+height: 100px;
+
+}
+.headnew h2{
+
+    text-align: center;
+    padding-top: 2%;
+}
+
+.headnew a{
+
+color: rgb(230, 166, 5);
+text-decoration: none;
+position: relative;
+
+
+left: 80%;
+
+font-size: large;
+font-weight: bold;
+font-style: italic;
+
+}
+p{
+
+    font-weight: bold;
+    font-size: 15px;
+}
+a{
+
+    color: red;
+}

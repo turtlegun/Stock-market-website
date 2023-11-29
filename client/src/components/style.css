@@ -1,0 +1,68 @@
+.form{
+
+width: 60%;
+
+}
+.input{
+
+background-color: rgb(250, 250, 250);
+color: black;
+font-weight: bold;
+font-size: larger;
+padding: 2%;
+
+}
+.input-group{
+display: flex;
+width: 20%;
+display: 'flex';
+
+align-items: center;
+justify-content: center;
+
+
+
+}
+.input-2{
+
+  background-color: rgb(250, 250, 250);
+  color: black;
+  font-weight: bold;
+  font-size: larger;
+  padding: 2%;
+
+
+}
+.pas{
+
+  display: flex;
+  width: 20%;
+  display: 'flex';
+  
+  align-items: center;
+  justify-content: center;
+
+
+}
+.sus{
+
+  background-color: rgb(250, 250, 250);
+  color: black;
+  font-weight: bold;
+  font-size: larger;
+  padding: 2%;
+
+
+}
+.input-signup{
+
+padding: 2%;
+
+
+}
+.pas-signup{
+
+
+width: 20%;
+
+}

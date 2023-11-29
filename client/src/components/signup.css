@@ -1,0 +1,133 @@
+.signup{
+
+
+background-color: black;
+height: 600px;
+
+
+}
+.signup h3{
+    color: white;
+    position: relative;
+    left: 40%;
+}
+
+.first label{
+
+    position: relative;
+    left: 43%;
+    padding-top: 3%;
+    padding-bottom: 2%;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+
+
+.first input{
+    position: relative;
+    left: 40%;
+    width: 25%;
+    height: 35px;
+
+
+
+}
+.first input::placeholder {
+    color: rgb(9, 15, 15); 
+    font-weight:500;
+    
+  }
+.email label{  
+    color: white;
+    position: relative;
+    left: 43%;
+    padding-top: 2%;
+    padding-bottom: 1%;  
+}
+
+
+.input1 input{
+
+    position: relative;
+    left: 40%;
+    width: 25%;
+    height: 35px;
+
+
+
+}
+.input1 input::placeholder {
+    color: rgb(9, 15, 15); 
+    font-weight:500;
+    
+  }
+.pasL label{
+    color: white;
+    position: relative;
+    left: 43%;
+    padding-top: 2%;
+    padding-bottom: 1%;  
+    font-weight: bold;
+    font-size: 20px;
+
+
+}
+.pasL input{
+
+    position: relative;
+    left: 40%;
+    width: 25%;
+    height: 35px;
+
+
+
+}
+.pasL input::placeholder {
+    color: rgb(9, 15, 15); 
+    font-weight:500;
+    
+  }
+.checkL{
+    position: relative;
+    left: 40%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+
+}
+.checkL label{
+
+color: white;
+
+}
+.error{
+
+    color: red;
+    position: relative;
+    left: 40%;
+
+  }
+
+.but2{
+
+   position: relative; 
+left: 65%;
+background-color:green;
+top: 15px;
+
+
+}  
+
+.but2 a{
+
+    color: white;
+    text-decoration: none;
+
+}
+.messageBox{
+
+color: red;
+position: relative;
+left: 33%;
+
+}

@@ -1,0 +1,18 @@
+.sensex {
+  border-radius: 2px;
+  border: 2px solid black;
+  width: 100%; /* Adjust as needed for responsiveness */
+  height: auto; /* Maintain aspect ratio */
+  overflow: hidden;
+}
+
+.sensex img {
+  width: 70%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.container {
+  text-align: left;
+}
+
